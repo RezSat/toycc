@@ -1,0 +1,3 @@
+C:/Users/Administrator/Documents/github/llvm_on_c/toycc/build/CMakeFiles/toycc.dir
+C:/Users/Administrator/Documents/github/llvm_on_c/toycc/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Documents/github/llvm_on_c/toycc/build/CMakeFiles/rebuild_cache.dir
