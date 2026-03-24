@@ -139,11 +139,12 @@ This project was built using a structured workflow with Gemini CLI:
 * Manual compilation and debugging at each step
 * Minimal, controlled changes instead of large rewrites
 
-The goal was to **see how it will integrate LLVM with C**, not just generate code. Because most of instructions I found was with C++
 
 ---
 
 ## Why This Project
+
+The goal was to **see how it will integrate LLVM with C**, not just generate code. Because most of instructions I found was with C++
 
 This compiler is intentionally minimal to focus on:
 
